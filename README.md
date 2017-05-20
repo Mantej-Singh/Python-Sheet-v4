@@ -36,3 +36,6 @@
 
 ## Panda Output:
 [![Pampa ds160.png](https://s19.postimg.org/d5em47u7n/Pampa_ds160.png)](https://postimg.org/image/4zwk625yn/)
+
+## Updated Output:
+[![screenshot_1495310942.png](https://s19.postimg.org/6p3wjpewj/screenshot_1495310942.png)](https://postimg.org/image/bnrey8ipb/)
