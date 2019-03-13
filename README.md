@@ -28,14 +28,13 @@
 6. Copy the JSON file to your code directory and rename it to
 `gc = pygsheets.authorize(outh_file='client_secretxxx.json')`
 
-[![google-developer-console.gif](https://s19.postimg.org/6djlnmfub/google-developer-console.gif)](https://postimg.org/image/9ke5790a7/)
-
+[![google-developer-console.gif](https://i.postimg.cc/dtC2212r/google-developer-console.gif)](https://postimg.cc/KRZ3Fms8)
 
 ## My Google SpreadSheet:
-[![Pampa ds160.png](https://s19.postimg.org/myr83a6yb/Pampa_ds160.png)](https://postimg.org/image/de7lgehm7/)
+[![Pampa-ds160.png](https://i.postimg.cc/7Yz883kc/Pampa-ds160.png)](https://postimg.cc/9rcNyqzt)
 
 ## Panda Output:
-[![Pampa ds160.png](https://s19.postimg.org/d5em47u7n/Pampa_ds160.png)](https://postimg.org/image/4zwk625yn/)
+[![Pampa-ds160.png](https://i.postimg.cc/YqmKKJgM/Pampa-ds160.png)](https://postimg.cc/1fPYD7Jj)
 
 ## Updated Output:
-[![screenshot_1495310942.png](https://s19.postimg.org/6p3wjpewj/screenshot_1495310942.png)](https://postimg.org/image/bnrey8ipb/)
+[![screenshot-1495310942.png](https://i.postimg.cc/HsMn3pXP/screenshot-1495310942.png)](https://postimg.cc/LnHm8Fyz)
