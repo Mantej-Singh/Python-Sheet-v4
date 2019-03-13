@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s19.postimg.org/x69rfot6b/Pampa_ds160.png">
+  <img src="https://i.postimg.cc/J4kHB2Nh/Pampa-ds160.png">
 </p>
 
 # Python Sheets: 
